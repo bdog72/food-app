@@ -1,12 +1,19 @@
 import React, { Component } from 'react'
-
-class App extends Component {
+import { browserHistory, Router, Route } from 'react-router'
+import Layout from './Layout'
+import Home from './Home'
+import Pizza from './Pizza.js'
+import Restaurant from './Restaurant'
+export default class App extends Component {
 
   render () {
-    return <div>
-      <h1>Hello, World!</h1>
-    </div>
+    return <Router history={browserHistory}>
+      <Route component={Layout}>
+        <Route path='/' component={Home} />
+        <Route path='/Pizza' component={Pizza} />
+        <Route path='/restaurant/:slug' component={Restaurant} />
+
+      </Route>
+    </Router>
   }
 }
-
-export default App
