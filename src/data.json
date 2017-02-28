@@ -1,0 +1,37 @@
+{
+    "little-italy": {
+        "name": "Little Italy",
+        "mapPlaceId": "ChIJkcooSXLjwogRYhNm2_XqmZs",
+        "description": "Straightforward pizzas, subs & cheesesteaks are served over the counter in a low-key setting",
+        "websiteURL": "https://tobysoriginallittleitalypizza.com/",
+        "imageURL": "https://s3-media1.fl.yelpcdn.com/bphoto/-hP92cjzjuVLYxybLU1YEA/o.jpg"
+    },
+    "italia-mia": {
+        "name": "Italia Mia",
+        "mapPlaceId": "ChIJobothAHkwogR7WsSQ20wE3o",
+        "description": "Old-school Italian favorites, from pizza to pastas & entrees, offered in casual, modest surrounds",
+        "websiteURL": "http://laitaliamia.com",
+        "imageURL": "https://s3-media1.fl.yelpcdn.com/bphoto/DhBX1I_Q03kBNz6REk9Bog/o.jpg"
+    },
+    "paisanos": {
+        "name": "Paisanos",
+        "mapPlaceId": "ChIJWUrBjN7iwogRu3EXiMDV328",
+        "description": "Italian joint offers a family-friendly choice for dining with a lunch buffet & menu of classic eats",
+        "websiteURL": "http://paisanospnp.com",
+        "imageURL": "https://s3-media4.fl.yelpcdn.com/bphoto/yIuZaKKE6ECGpjg5m0Y6CA/o.jpg"
+    },
+    "28-grams": {
+        "name": "28 Grams",
+        "mapPlaceId": "ChIJd4XtP4PhwogRx_T4OlkagkU",
+        "description": "New Pizza Joint, small inside, mainly for takeout, tasty though",
+        "websiteURL": "http://www.28gramspizza.com",
+        "imageURL": "https://s3-media1.fl.yelpcdn.com/bphoto/Bc9KaSwwcmMOcPzYXbXuFg/o.jpg"
+    },
+    "pizza-box": {
+        "name": "Pizza Box",
+        "mapPlaceId": "ChIJLbzOu4DhwogRFJwwF9ZBvOQ",
+        "description": "New Pizza, good reviews",
+        "websiteURL": "",
+        "imageURL": "https://s3-media3.fl.yelpcdn.com/bphoto/sHgGGoG_Q_94WJ_fGKwByg/o.jpg"
+    }
+}
